@@ -1,4 +1,4 @@
-# electron-packager-test
+# electron-vue
 
 #### 项目介绍
 Electron打包成win安装包并创建桌面快捷方式
